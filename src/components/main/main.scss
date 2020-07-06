@@ -1,7 +1,5 @@
-  
- 
-//  body {
-//   font-family: 'Fira Sans', sans-serif;
+// body {
+//   font-family: "Fira Sans", sans-serif;
 //   margin: 0;
 //   .main {
 //     width: 1200px;
@@ -85,7 +83,7 @@
 //           display: flex;
 //           flex-wrap: wrap;
 //           .Rectangle-1632 {
-//             flex:1 1 0.33333333%;
+//             flex: 1 1 0.33333333%;
 //             margin-left: 20px;
 //             margin-bottom: 20px;
 //             padding: 8px;
@@ -214,7 +212,6 @@
 //                       height: 37px;
 //                       object-fit: contain;
 //                     }
-                    
 //                   }
 //                 }
 //                 .Rectangle-1645 {
@@ -222,7 +219,11 @@
 //                   height: 19px;
 //                   object-fit: contain;
 //                   border-radius: 11px;
-//                   background-image: linear-gradient(to right, #ffffff -1%, #003b71 99%);
+//                   background-image: linear-gradient(
+//                     to right,
+//                     #ffffff -1%,
+//                     #003b71 99%
+//                   );
 //                 }
 //                 .line {
 //                   border-bottom: 1px solid #003b71;
@@ -236,6 +237,28 @@
 //         .content-body2 {
 //           width: 1140px;
 //           margin: auto;
+//           .Rectangle-1459 {
+//             object-fit: contain;
+//             border-radius: 3px;
+//             box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.16);
+//             background-color: #ffffff;
+//             padding: 10px 0 0 0;
+//           }
+//           .Throughput-Analysis {
+//             width: 261px;
+//             height: 29px;
+//             object-fit: contain;
+//             font-family: Montserrat;
+//             font-size: 24px;
+//             font-weight: bold;
+//             font-stretch: normal;
+//             font-style: normal;
+//             line-height: 1.21;
+//             letter-spacing: normal;
+//             text-align: left;
+//             color: #003b71;
+//             margin-left: 13px;
+//           }
 //         }
 //       }
 //     }
